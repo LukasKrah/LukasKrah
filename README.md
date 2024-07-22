@@ -36,9 +36,9 @@
     <th>Tools</th>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,figma,blender," />
+        <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,figma,blender,postman,github,gmail,notion,npm" />
         <br />
-        <img src="https://skillicons.dev/icons?i=postman,github,gmail,notion,npm,pnpm,powershell,raspberrypi,stackoverflow,windows" />
+        <img src="https://skillicons.dev/icons?i=pnpm,powershell,raspberrypi,stackoverflow,windows" />
       </a>
     </td>
   </tr>
@@ -51,6 +51,16 @@
     </td>
   </tr>
 </table>
+
+<br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
+
+## 🌟 Projects
+
+<p align="center">
+  <a href="https://github.com/LukasKrah/WoW-Dashboard-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LukasKrah&repo=WoW-Dashboard-Client&theme=dark" alt="WoW-Dashboard-Client">
+  </a>
+</p>
 
 <br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
@@ -92,12 +102,12 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/.../">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lukas-krahbichler-833b1931a/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/LukasKrah">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/...?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21163696/lukas-krahbichler">
+			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
 </p>
 
