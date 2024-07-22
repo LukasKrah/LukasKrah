@@ -5,11 +5,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- **🎓 - Learning:** I'm currently learning **electronics and technical information technology** at the HTL-Anichstraße in Innsbruck, Austria.
-- **🖥️ - IDEs:** My main IDEs are the different **JetBrains IDEs** and VSCode.
-- **💼 - Skills:** My top skills are **Python**🐍, Web-Development with **Angular**🌐, **Databases**🗄️ and **VHDL**🛠️.
-- **🔧 - Tools:** I'm well expierenced with schematic design, circuit simulation and PCB-design using Altium and with 3D-Design using Inventor and Creo.
-- **🌍 - Languages:** I speak **english** and **german**.
+- **🎓 Learning:** I am currently pursuing education in _Electronics and Technical Information Technology_ at _HTL-Anichstraße_ in _Innsbruck_, _Austria_.
+- **🖥️ IDEs:** I primarily use _JetBrains IDEs_ and _VSCode_ for my development work.
+- **💼 Skills:** My core competencies include _Python_ 🐍, _Web Development_ with _Angular_ 🌐, _Databases_ 🗄️, and _VHDL_ 🛠️.
+- **🔧 Tools:** I have extensive experience in _schematic design_, _circuit simulation_, and _PCB_ design using _Altium_, as well as _3D design_ using _Inventor_ and _Creo_.
+- **🌍 Languages:** I am proficient in _English_ and _German_.
 
 <br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
