@@ -1,29 +1,56 @@
-<h1 align="center"><b>Hi there, I'm Lukas Krahbichler </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img style="width: 100%" src="./github-header-image.png">
 
-...
 
-<br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - **🎓 - Learning:** I'm currently learning **electronics and technical information technology** at the HTL-Anichstraße in Innsbruck, Austria.
 - **🖥️ - IDEs:** My main IDEs are the different **JetBrains IDEs** and VSCode.
-- **💼 - Skills:** My top skills are **Python**🐍, Web-Development with **Angular**🌐 and **Databases**🗄️.
+- **💼 - Skills:** My top skills are **Python**🐍, Web-Development with **Angular**🌐, **Databases**🗄️ and **VHDL**🛠️.
+- **🔧 - Tools:** I'm well expierenced with schematic design, circuit simulation and PCB-design using Altium and with 3D-Design using Inventor and Creo.
 - **🌍 - Languages:** I speak **english** and **german**.
 
 <br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- 🐍 **Python Expert**
-- 🗄️ **SQL Specialist** (MySQL, PostgreSQL)
-- 🌐 **Web Developer** with Angular, JavaScript, TypeScript, CSS, HTML
-- 💻 **C++ / C# / C** Programmer
-- ☕ **Java Enthusiast**
-- 🌙 **Lua Programmer**
-- 📜 **LaTeX User**
-- 🛠️ **VHDL Professional**
-- 🔧 **Tools:** Altium, 3D-Design with Inventor and Creo
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,ts,py,c,cs,lua,latex,regex" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Libraries / Frameworks</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,nodejs,dotnet,cmake,cypress" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,figma,blender," />
+        <br />
+        <img src="https://skillicons.dev/icons?i=postman,github,gmail,notion,npm,pnpm,powershell,raspberrypi,stackoverflow,windows" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>IDEs</th>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,arduino,atom,clion,idea,pycharm,rider" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/><br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
 
@@ -32,7 +59,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
+<table align="center" width="100%>
 <tr border="none">
 <td width="50%" align="center">
   
