@@ -12,6 +12,20 @@ Hello! I'm an electronics and IT enthusiast from Austria. I enjoy bringing ideas
 * **🔧 Hardware & Design Tools:** I have strong experience in schematic design, circuit simulation, and PCB design using **Altium Designer**, alongside 3D modeling using **Autodesk Inventor** and **PTC Creo**.
 * **🌍 Languages:** Proficient in **English** and **German**.
 
+---
+
+## 📝 Diploma Thesis (View [PDF](https://fridrichdergosse.github.io/3D-Drone-Tracking-Documentation/main.pdf))
+
+- [3D-Drone-Tracking-Documentation](https://github.com/FridrichDerGosse/3D-Drone-Tracking-Documentation) (TeX, Python, Java)
+- [3D-Drone-Tracking-PCB](https://github.com/FridrichDerGosse/3D-Drone-Tracking-PCB) (Altium Designer)
+- [3D-Drone-Tracking-Hardware-Drivers](https://github.com/FridrichDerGosse/3D-Drone-Tracking-Hardware-Drivers) (C++)
+- [3D-Drone-Tracking-Nano](https://github.com/FridrichDerGosse/3D-Drone-Tracking-Nano) (C++, C)
+- [3D-Drone-Tracking-GUI](https://github.com/FridrichDerGosse/3D-Drone-Tracking-GUI) (Python)
+- [3D-Drone-Tracking-Python-Tools](https://github.com/FridrichDerGosse/3D-Drone-Tracking-Python-Tools) (Python)
+- [3D-Drone-Tracking](https://github.com/FridrichDerGosse/3D-Drone-Tracking) (Python)
+
+---
+
 ## 💻 Tech Stack & Tools
 
 ### 🔠 Languages
@@ -77,6 +91,21 @@ Hello! I'm an electronics and IT enthusiast from Austria. I enjoy bringing ideas
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" />
   <img src="https://skillicons.dev/icons?i=atom" title="Atom" />
 </p>
+
+---
+
+## 🌟 Contributor in
+
+- [Nilusink/amoginarium](https://github.com/Nilusink/amoginarium) (Python/Cython/GLSL)
+- [Nilusink/MiniGolfMultiplayer](https://github.com/Nilusink/MiniGolfMultiplayer) (Python)
+- [Nilusink/WebUntisAbsenceDashboard](https://github.com/Nilusink/WebUntisAbsenceDashboard) (Python)
+- [frenchbakery/dev_template](https://github.com/frenchbakery/dev_template) (C, C++, Makefile, Shell, Dockerfile)
+- [frenchbakery/devdocs](https://github.com/frenchbakery/devdocs) (Markdown)
+- [frenchbakery/BotballUI](https://github.com/frenchbakery/BotballUI) (Python)
+- [FridrichDerGosse/Fridrich](https://github.com/FridrichDerGosse/Fridrich) (Python, Batch, Shell)
+- [FridrichDerGosse/Fridrich-Connection](https://github.com/FridrichDerGosse/Fridrich-Connection) (Python)
+- [FridrichDerGosse/Fridrich-Server](https://github.com/FridrichDerGosse/Fridrich-Server) (Python, MySQL)
+- [FridrichDerGosse/Fridrich-Backend](https://github.com/FridrichDerGosse/Fridrich-Backend) (Python)
 
 ---
 
